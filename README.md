@@ -8,4 +8,4 @@ TODO: how to become official subgroup, HH subgroup leaders link
 TODO: e.g. hackbot, open data
 
 ## Moderation
-TODO: how one becomes mods
+TODO: how one becomes mod
