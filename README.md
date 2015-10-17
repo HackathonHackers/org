@@ -2,10 +2,10 @@
 How to get involved with Hackathon Hackers
 
 ## Subgroups
-TODO
+TODO: how to become official subgroup, HH subgroup leaders link
 
-## Open Source Software
-TODO
+## Hacking
+TODO: e.g. hackbot, open data
 
 ## Moderation
-TODO
+TODO: how one becomes mods
