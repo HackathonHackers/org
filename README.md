@@ -2,7 +2,7 @@
 How to get involved with Hackathon Hackers
 
 ## Becoming a moderator
-Moderators of Hackathon Hackers are tasked with enforcing the [code of conduct](https://github.com/HackathonHackers/code-of-conduct), being an example of a highly valuable member of the community, and helping establish healthy dialogues on news and issues in the hackathon community.
+Moderators of Hackathon Hackers are tasked with /deleting troll threads (e.g. joke threads about Donald Trump making HH great again), being an example of a highly valuable member of the community, and helping establish healthy dialogues on news and issues in the hackathon community.
 
 Because of the responsibilities that come with being a moderator, a select few members are chosen to become moderators. However that's not to say it's impossible to do so!
 
