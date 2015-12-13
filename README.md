@@ -40,9 +40,9 @@ The admin of the Hackathon Hackers group exists solely to oversee the moderation
 - Modifying the sidebar
 - Adding a newly appointed admin
 
-There is only one active admin, though the creator of the group exists on the panel, only to ensure that no newly added admin ever reaches a point where they refuse to give up ownership of the group when their term has ended.
+There is only one active admin.
 
-The Subgroup Leaders have the power to call for a new election to take place, and the admin can choose whether or not to participate. The admin can retain their position either until they choose to reliquish it, or a new admin has been elected. The inactive admin has no authority over the active admin, nor the group as a whole, unless explicitly called upon by the Subgroup Leaders to transition power from the current admin to the newly elected admin.
+The Subgroup Leaders have the power to call for a new election to take place, and the admin can choose whether or not to participate. The admin can retain their position either until they assign an interim administrator, or a new admin has been elected. The (interim) admin is expected to add the winner of the election as an administrator and remove themselves within 24 hours of it concluding.
 
 Subgroup Leadership
 ----
