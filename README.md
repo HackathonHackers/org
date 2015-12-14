@@ -16,7 +16,7 @@ If you ever see something on any repo that you feel could be improved, feel free
 
 Moderation
 ----
-The Hackathon Hackers main group (as well as a few subgroups) is run using the opensource moderation tool, [HackBot](https://github.com/HackathonHackers/hackbot). When the appointed moderators type the command `/detete` in response to a comment or post they believe is in violation of our [Code of Conduct](https://github.com/HackathonHackers/code-of-conduct), or does not belong in the group being moderated, the entirety of the deleted content will be removed, and pushed to a file on a [public GitHub repository](https://github.com/HackathonHackers/moderation), along with the details of why it was removed, and by whom. The same goes for every usage of `/ama`, `/thread` and `/close`.
+The Hackathon Hackers main group (as well as a few subgroups) is run using the opensource moderation tool, [HackBot](https://github.com/HackathonHackers/hackbot). When the appointed moderators type the command `/delete` in response to a comment or post they believe is in violation of our [Code of Conduct](https://github.com/HackathonHackers/code-of-conduct), or does not belong in the group being moderated, the entirety of the deleted content will be removed, and pushed to a file on a [public GitHub repository](https://github.com/HackathonHackers/moderation), along with the details of why it was removed, and by whom. The same goes for every usage of `/ama`, `/thread` and `/close`.
 
 The moderation team (**mods**) is voted on by the community as a whole. **The structure of choosing mods works as follows:**
 - A person is nominated for modship by [filling out this form](http://goo.gl/forms/Xgbztid81U).
