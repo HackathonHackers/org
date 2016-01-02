@@ -39,7 +39,7 @@ All newly elected admins must agree to practice empathy when responding to conte
 - Adding a newly appointed admin
 - Maintaining the Hackathon Hackers Github, its repos, and helping new contributors
 
-The terms of the Admins are **four months long**, but can be terminated at any point during that period at the discretion of a 2/3 majority vote of the Admin.s The decision to make the terms four months long is meant to accommodate the fact that most of our community is made up of students, whose time available volunteer may vary by semester.
+The terms of the Admins are **four months long**, but can be terminated at any point during that period at the discretion of a 2/3 majority vote of the Admins. The decision to make the terms four months long is meant to accommodate the fact that most of our community is made up of students, whose time available volunteer may vary by semester.
 
 The Moderation Team
 ---
