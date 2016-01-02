@@ -14,35 +14,40 @@ Hackathon Hackers is an all-inclusive hackathon community, run for and by the co
 
 If you ever see something on any repo that you feel could be improved, feel free to submit a pull request for a change to be made. **This is your community as much as it is ours.**
 
-Moderation
+Admin Team
 ----
 The Hackathon Hackers main group (as well as a few subgroups) is run using the opensource moderation tool, [HackBot](https://github.com/HackathonHackers/hackbot). When the appointed moderators type the command `/delete` in response to a comment or post they believe is in violation of our [Code of Conduct](https://github.com/HackathonHackers/code-of-conduct), or does not belong in the group being moderated, the entirety of the deleted content will be removed, and pushed to a file on a [public GitHub repository](https://github.com/HackathonHackers/moderation), along with the details of why it was removed, and by whom. The same goes for every usage of `/ama`, `/thread` and `/close`.
 
-The moderation team (**mods**) is voted on by the community as a whole. **The structure of choosing mods works as follows:**
-- A person is nominated for modship by [filling out this form](http://goo.gl/forms/Xgbztid81U).
-- At the end of every term, the Subgroup Leaders vote to add, remove, or renew modship for nominated and existing moderators.
+The admin team is voted on by the community as a whole. 
+
+**The structure of choosing admins works as follows:**
+- A person is nominated for adminship by [filling out this form](http://goo.gl/forms/Xgbztid81U).
+- At the end of every term, the Subgroup Leaders vote to add, remove, or renew adminship for nominated and existing admins. Subgroup Leaders must also decide how many admins will be elected in a term.
 - Prior to the elections, new nominees are given an opportunity to campaign by submitting a proposal on their personal vision for the community to the [Hackathon Hackers Medium publication](https://medium.com/hackathon-hackers/).
 
-All newly elected mods must agree to practice empathy when responding to content that should be removed. The purpose of the moderation team is to make sure that their assigned group remains a place where everyone feels welcome.
+All newly elected admins must agree to practice empathy when responding to content that should be removed. The purpose of the moderation team is to make sure that their assigned group remains a place where everyone feels welcome.
 
-**The duties of the moderation team include:**
+**The duties of the admin team includes:**
 - Deleting content that violates our [Code of Conduct](https://github.com/HackathonHackers/code-of-conduct).
 - Reaching out to community members, informing them of why their content was taken down.
 - Reporting to the admin when they feel as if a community member must be banned, and giving them a comprehensive update on why they feel this is the right move to make.
 
-The terms of the moderators are **four months long**, but can be terminated at any point during that period at the discretion of the Subgroup Leaders. The decision to make the terms four months long is meant to accommodate the fact that most of our community is made up of students, whose time available volunteer may vary by semester.
-
-Adminship
-----
-The admin of the Hackathon Hackers group exists solely to oversee the moderation team, and perform tasks that the moderators don't have the power to do. This includes actions such as:
+** Voting on the following (% majority needed depends on number of admins) **
 - Banning users
 - Pinning posts
 - Modifying the sidebar
 - Adding a newly appointed admin
+- Maintaining the Hackathon Hackers Github, its repos, and helping new contributors
 
-There is only one active admin, though the creator of the group exists on the panel, only to ensure that no newly added admin ever reaches a point where they refuse to give up ownership of the group when their term has ended. The creator's sole authority is to ensure that agreed-upon power transitions occur, as specified by this document. The creator may not add or remove an admin for personal or opinion-based reasons under any circumstances, or make any other kind of change to the group.
+The terms of the Admins are **four months long**, but can be terminated at any point during that period at the discretion of a 2/3 majority vote of the Admin.s The decision to make the terms four months long is meant to accommodate the fact that most of our community is made up of students, whose time available volunteer may vary by semester.
 
-The Subgroup Leaders have the power to call for a new election to take place, and the admin can choose whether or not to participate. The admin can retain their position either until they choose to reliquish it, or a new admin has been elected. The inactive admin has no authority over the active admin, nor the group as a whole, unless explicitly called upon by the Subgroup Leaders to transition power from the current admin to the newly elected admin.
+The Moderation Team
+---
+The HH Subgroup Leaders may vote on new hackbot moderators as they see fit, but they can also be voted out by said Subgroup Leaders. Someone can volunteer for the moderation team via request to an HH Subgroup Leader who puts it to a vote. This is a good way for future admins to show how they work with the community.
+
+The Role of The Creator
+----
+The creator of the group exists on the panel, only to ensure that no newly added admin ever reaches a point where they refuse to give up ownership of the group when their term has ended. The creator's sole authority is to ensure that agreed-upon power transitions occur, as specified by this document. The creator may not add or remove an admin for personal or opinion-based reasons under any circumstances, or make any other kind of change to the group.
 
 Subgroup Leadership
 ----
