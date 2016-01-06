@@ -32,12 +32,12 @@ All newly elected admins must agree to practice empathy when responding to conte
 - Reaching out to community members, informing them of why their content was taken down.
 - Reporting to the admin when they feel as if a community member must be banned, and giving them a comprehensive update on why they feel this is the right move to make.
 
-** Voting on the following (% majority needed depends on number of admins) **
+**Voting on the following (% majority needed depends on number of admins):**
 - Banning users
 - Pinning posts
 - Modifying the sidebar
 - Adding a newly appointed admin
-- Maintaining the Hackathon Hackers Github, its repos, and helping new contributors
+- Maintaining the Hackathon Hackers GitHub, its repos, and helping new contributors
 
 The terms of the Admins are **four months long**, but can be terminated at any point during that period at the discretion of a 2/3 majority vote of the Admins. The decision to make the terms four months long is meant to accommodate the fact that most of our community is made up of students, whose time available volunteer may vary by semester.
 
