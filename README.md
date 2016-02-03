@@ -6,6 +6,7 @@ Table of Contents
 - [Who Are We](https://github.com/HackathonHackers/org#who-are-we)
 - [Moderation](https://github.com/HackathonHackers/org#moderation)
 - [Adminship](https://github.com/HackathonHackers/org#adminship)
+- [Admin Election Process](https://github.com/HackathonHackers/org#admin-election-process)
 - [Subgroup Leadership](https://github.com/HackathonHackers/org#subgroup-leadership)
 
 Who Are We
@@ -40,6 +41,35 @@ All newly elected admins must agree to practice empathy when responding to conte
 - Maintaining the Hackathon Hackers GitHub, its repos, and helping new contributors
 
 The terms of the Admins are **four months long**, but can be terminated at any point during that period at the discretion of a 2/3 majority vote of the Admins. The decision to make the terms four months long is meant to accommodate the fact that most of our community is made up of students, whose time available volunteer may vary by semester.
+
+Admin Election Process
+---
+### Eligibility for admin position
+To qualify for the election, members must satisfy the following criteria:
+* Must be a member of Hackathon Hackers.
+* Must not be banned, and must not have been banned in the 30 days prior to the start of the nomination period.
+* Must have made at least one post or comment in the current administrative term.
+
+### Nomination period
+The nomination period begins 14 days prior to the end of the admin team's term. Once the nomination period starts, eligible members will have five days to declare their candidacy.
+
+### Voting period
+Candidates will be allowed to give a statement of up to 500 characters which will appear to voters on the voting portal. Campaigning and voter interactions in the main group, including public questions for candidates, will be restricted to a pinned megathread.
+
+The voting period lasts for seven days; in order to maintain the anonymity of votes, members cannot change their votes once cast. For each candidate, voters will have the following options:
+
+* Support
+* Neutral
+* Oppose
+
+The **support ratio** for a candidate is defined as the number of votes supporting them divided by the number of votes cast for a candidate, excluding neutral votes. In other terms:
+
+`Support Ratio = Support / (Support + Oppose)`
+
+Candidates must have at least a 33% support ratio to qualify to be admins. If there are at least five candidates that meet this requirement, the top five candidates will be appointed as group admins in order of highest percentage of support.
+
+### Interim period
+An interim period of two days is provided in order to grant the opportunity to resolve conflicts such as admins withdrawing their candidacy, as well as to provide a transition period during which the incoming admin team can be trained. During this period, the current admin team will remain in place, and the new admin team is only to be appointed after the end of this period.
 
 The Moderation Team
 ---
